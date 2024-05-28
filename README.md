@@ -24,7 +24,7 @@ The Online Hotel Booking System is a web application developed using .NET Core 6
 ![Add Hotel](Images/hm-4.png)
 
 ### Add Room Category
-![Add RoomCategory](Images/hm-5.png))
+![Add RoomCategory](Images/hm-5.png)
 
 ## Prerequisites
 - [.NET Core 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
