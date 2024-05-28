@@ -12,7 +12,7 @@ The Online Hotel Booking System is a web application developed using .NET Core 6
 ## Screenshots
 
 ### Home Page
-![Home Page](Images/hm-1)
+![Home Page](Images/hm-1.png)
 
 ### Available Hotels
 ![Available Hotels](path/to/AvailableHotels.png)
